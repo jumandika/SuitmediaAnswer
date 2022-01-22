@@ -1,0 +1,6 @@
+module Pods_SuitmediaAnswer_SuitmediaAnswerTests {
+  umbrella header "Pods-SuitmediaAnswer-SuitmediaAnswerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

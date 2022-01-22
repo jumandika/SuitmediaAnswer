@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SuitmediaAnswer.iml" filepath="$PROJECT_DIR$/.idea/modules/SuitmediaAnswer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SuitmediaAnswer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SuitmediaAnswer.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1400841980/SuitmediaAnswer.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1400841980/SuitmediaAnswer.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-531793709/SuitmediaAnswer.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-531793709/SuitmediaAnswer.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1575957675/SuitmediaAnswer.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1575957675/SuitmediaAnswer.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/532651308/SuitmediaAnswer.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/532651308/SuitmediaAnswer.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
